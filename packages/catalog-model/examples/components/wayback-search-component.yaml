@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: wayback-search
+  name: wayback-search-222
   description: Search of the wayback machine
 spec:
   type: service
