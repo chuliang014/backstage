@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: artist-lookup
   description: Artist Lookup
+  annotations:
+    jira/project-key: SIP-2918
   tags:
     - java
     - data
@@ -31,6 +33,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
+  owner: SRE infra
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
