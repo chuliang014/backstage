@@ -32,7 +32,7 @@ metadata:
       icon: alert
 spec:
   type: service
-  lifecycle: experimental
-  owner: SRE infra team
+  lifecycle: Production
+  owner: SRE
   system: artist-engagement-portal
   dependsOn: ['resource:artists-db']
