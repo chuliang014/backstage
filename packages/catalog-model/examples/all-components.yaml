@@ -3,8 +3,6 @@ kind: Location
 metadata:
   name: example-components
   description: A collection of all Backstage example components
-  annotations:
-    jira/project-key: SIP-2918
 spec:
   targets:
     - ./components/artist-lookup-component.yaml
