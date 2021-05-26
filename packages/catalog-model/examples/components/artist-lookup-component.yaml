@@ -5,6 +5,7 @@ metadata:
   description: Artist Lookup
   annotations:
     jira/project-key: SIP
+    pagerduty.com/integration-key: a8642af33a984c07d01144f420df074e
   tags:
     - java
     - data
