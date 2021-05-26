@@ -4,7 +4,7 @@ metadata:
   name: wayback-search-222
   description: Search of the wayback machine
   annotations:
-    jira/project-key: SIP-2918
+    jira/project-key: SIP
 spec:
   type: service
   lifecycle: production
