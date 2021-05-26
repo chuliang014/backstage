@@ -4,7 +4,7 @@ metadata:
   name: artist-lookup
   description: Artist Lookup
   annotations:
-    jira/project-key: SIP-2918
+    jira/project-key: SIP
   tags:
     - java
     - data
